@@ -43,7 +43,6 @@ const AddTodo = ({ todos, setTodos }) => {
 					Save Todo
 				</Button>
 			</Card.Content>
-
 		</Card>
 	</>
 }
